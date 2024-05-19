@@ -50,7 +50,7 @@ I love brainstorming new ideas and exploring potential outcomes for existing pro
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wit-ayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=wit-ayush&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wit-ayush&theme=dark&hide_border=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wit-ayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ### 🔝 Top Contributed Repo
