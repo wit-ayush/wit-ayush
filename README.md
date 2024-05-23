@@ -57,4 +57,4 @@ I love brainstorming new ideas and exploring potential outcomes for existing pro
 ![](https://github-contributor-stats.vercel.app/api?username=wit-ayush&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username&base=1011&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=wit-ayush&base=1011&style=for-the-badge)
